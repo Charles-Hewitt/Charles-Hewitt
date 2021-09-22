@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**Charles-Hewitt/Charles-Hewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 My name is CJ Hewitt!
 
 
 - 🔭 I’m currently working on expanding my profile.
@@ -12,5 +9,3 @@
 - 📫 ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I own a 4 year old record in the 400 free relay for swimming at my high school.
-
--->
